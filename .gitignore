@@ -127,3 +127,10 @@ venv.bak/
 pip-selfcheck.json
 
 # End of https://www.gitignore.io/api/python,virtualenv
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
